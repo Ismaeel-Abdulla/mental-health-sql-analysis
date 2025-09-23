@@ -45,7 +45,7 @@ Here are a few sample outputs from Tableau:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 To explore this project:  
 
 1. **Review the SQL queries** in `/SQL queries` to see how the data was analyzed.  
@@ -56,7 +56,7 @@ To explore this project:
 
 ## 📬 Contact
 If you have any questions, suggestions, or would like to collaborate:  
-- **LinkedIn**: (linkedin.com/in/ismaeel-ghayaty-121125160)  
+- **LinkedIn**: [![LinkedIn][(https://img.shields.io/badge/LinkedIn-Profile-blue](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/) 
 - **Email**: ismaeel.abdulla7@gmail.com
 
 ---
