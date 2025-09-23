@@ -39,7 +39,7 @@ Here are a few sample outputs from Tableau:
   ![Stress by Gender](charts/stress_chart.png)  
 
 - Correlation Between Anxiety and Workload  
-  ![Anxiety vs Workload](charts/anxiety_chart.png)  
+  ![Anxiety vs Workload]([charts/anxiety_chart.png](https://github.com/Ismaeel-Abdulla/mental-health-sql-analysis/blob/ee0870b9dcd1658fab414aaf799621fac6b0942c/Charts/Anxiety.png))  
 
 *(Full set of charts available in the `/charts` folder)*  
 
