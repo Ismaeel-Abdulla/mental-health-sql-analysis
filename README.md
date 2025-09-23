@@ -56,7 +56,7 @@ To explore this project:
 
 ## 📬 Contact
 If you have any questions, suggestions, or would like to collaborate:  
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/))
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/)
 - **Email**: ismaeel.abdulla7@gmail.com
 
 ---
