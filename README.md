@@ -35,10 +35,10 @@ The analysis highlights several important relationships between student lifestyl
 ## 📈 Example Visualizations
 Here are a few sample outputs from Tableau:  
 
-- Stress Levels by Gender  
+- Correlation Between Stress and Other Factors  
   ![Image Alt](https://github.com/Ismaeel-Abdulla/mental-health-sql-analysis/blob/74d1e36d8f0c6b71a06ef55aff192dd7755ca3e3/Charts/Stress.png)
 
-- Correlation Between Anxiety and Workload  
+- Correlation Between Anxiety and Factors  
   ![Image Alt](https://github.com/Ismaeel-Abdulla/mental-health-sql-analysis/blob/ee0870b9dcd1658fab414aaf799621fac6b0942c/Charts/Anxiety.png)
 
 *(Full set of charts available in the `/charts` folder)*  
@@ -56,7 +56,7 @@ To explore this project:
 
 ## 📬 Contact
 If you have any questions, suggestions, or would like to collaborate:  
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/ismaeel-ghayaty-121125160)  
+- **LinkedIn**: (linkedin.com/in/ismaeel-ghayaty-121125160)  
 - **Email**: ismaeel.abdulla7@gmail.com
 
 ---
