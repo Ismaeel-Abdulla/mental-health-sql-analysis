@@ -19,21 +19,20 @@ I used **SQL** for data cleaning, transformation, and analysis, then visualized 
 ##  Repository Structure
 
 Student-Mental-Health-Analysis/
-│
-├── SQL_queries/            # جميع الـ SQL scripts المستخدمة في التحليل
-│   ├── cleaning.sql
-│   ├── analysis_queries.sql
-│   └── ...
-│
-├── Outputs/                # صور و CSVs ناتجة عن التحليل
-│   ├── sleep_vs_stress.png
-│   ├── workload_analysis.png
-│   ├── gender_comparison.png
-│   └── results.csv
-│
-├── README.md               # ملف التوثيق الأساسي للمشروع
-└── dataset.csv     
+├──  Charts/
+│ └── Tableau visualizations (dashboards & charts)
 
+├──  Dataset/
+│ └── Student mental health dataset (CSV file)
+
+├──  Outputs/
+│ └── CSV outputs & SQL query result snapshots
+
+├──  SQL queries/
+│ └── SQL scripts for cleaning, transformation, and analysis
+
+├── 📄 LICENSE – License information for the project
+├── 📄 README.md – Project documentation and instructions
 ---
 
 ##  Key Insights
