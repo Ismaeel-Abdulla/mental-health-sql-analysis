@@ -76,4 +76,4 @@ If you have any questions, suggestions, or would like to collaborate:
 
 ---
 
-✨ This project demonstrates my ability to combine **SQL analysis** with **data visualization** to deliver actionable insights on real-world issues.
+This project demonstrates my ability to combine **SQL analysis** with **data visualization** to deliver actionable insights on real-world issues.
