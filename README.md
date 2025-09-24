@@ -1,6 +1,6 @@
-# 🎓 Student Mental Health Analysis
+#  Student Mental Health Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes a dataset of students (ages 18–21) to uncover trends and patterns related to **mental health, stress, and well-being**.
 
 This dataset captures survey responses from 843 college students aged 18–21 regarding their experiences with stress, health, relationships, academics, and emotional well-being. The responses were collected via Google Forms using a five-point Likert scale ("Not at all" to "Extremely") 0 to 5 and anonymized to protect privacy.
@@ -9,18 +9,34 @@ I used **SQL** for data cleaning, transformation, and analysis, then visualized 
 
 ---
 
-## 🛠️ Technologies Used
+##  Tools Used
 - **SQL** → Data cleaning, transformation, and exploratory analysis  
 - **Tableau** → Dashboards and visualizations for communicating insights  
 - **GitHub** → Documentation and project sharing  
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
+
+Student-Mental-Health-Analysis/
+│
+├── SQL_queries/            # جميع الـ SQL scripts المستخدمة في التحليل
+│   ├── cleaning.sql
+│   ├── analysis_queries.sql
+│   └── ...
+│
+├── Outputs/                # صور و CSVs ناتجة عن التحليل
+│   ├── sleep_vs_stress.png
+│   ├── workload_analysis.png
+│   ├── gender_comparison.png
+│   └── results.csv
+│
+├── README.md               # ملف التوثيق الأساسي للمشروع
+└── dataset.csv     
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 The analysis highlights several important relationships between student lifestyle factors and mental health:
 - **Anxiety , stress & other factors** → Studnets with high anxiety and stress reported negative effect on other factors.
 - **Sleep & attendance** → Students with irregular sleep patterns reported higher stress and lower overall mental health.  
@@ -28,11 +44,11 @@ The analysis highlights several important relationships between student lifestyl
 - **Gender Comparison** → Female students reported slightly higher stress and anxiety levels compared to male students.  
 - **Peer Relationships** → Stronger peer connections were associated with better overall mental health outcomes.  
 
-👉 Visualizations of these findings are included in the `/charts` folder.  
+ Visualizations of these findings are included in the `/charts` folder.  
 
 ---
 
-## 📈 Example Visualizations
+## Example Visualizations
 Here are a few sample outputs from Tableau:  
 
 - Correlation Between Stress and Other Factors  
@@ -54,7 +70,7 @@ To explore this project:
 
 ---
 
-## 📬 Contact
+##  Contact
 If you have any questions, suggestions, or would like to collaborate:  
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaeel-ghayaty-121125160/)
 - **Email**: ismaeel.abdulla7@gmail.com
